@@ -2,11 +2,6 @@
 
 
 
-Find a detailed description of the plan and the curriculum for the semester here:
-
-  * Dates: https://datsoftlyngby.github.io/soft2019spring
-  * Plan: https://datsoftlyngby.github.io/soft2019spring/DB_plan.html
-
 ## [Googledoc scrap book](https://docs.google.com/document/d/1c8W921VuAG5FaQJuMjIn6JSdAuYiA2eBQxrKk-YYXVs/edit?usp=sharing)
 
 ## I want to work with the course material on my machine.
